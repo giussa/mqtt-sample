@@ -1,0 +1,16 @@
+{
+  "options": {
+    "port": 8883,
+    "host": "ptnetsuite.a2asmartcity.io",
+    "protocol": "mqtts",
+    "username": "",
+    "password": "",
+    "rejectUnauthorized" : true,
+    "secureProtocol": "TLSv1_method",
+    "protocolId": "MQIsdp",
+    "protocolVersion": 3
+  },
+  "topics": [
+    "/sub/v1/users/lineacom/shared/auroras/apps/1/devices/514d38577fbef502/uplink/+"
+  ]
+}
